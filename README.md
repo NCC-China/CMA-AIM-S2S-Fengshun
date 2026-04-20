@@ -1,4 +1,4 @@
-# Fengshun
+# Fengshun_v1.0
 ---
 Fengshun system, an AI-driven global subseasonal-to-seasonal prediction system developed by the CMA. Fengshun features a flow-dependent intelligent perturbation generation module in the latent space of the model, incorporates air-sea interaction, and offers interpretability. Trained on CRA-40 reanalysis data, CODAS SST data, and FY-3E OLR data, it daily generates 100 ensemble members for 60-day forecasts of global basic elements and circulation.
 
